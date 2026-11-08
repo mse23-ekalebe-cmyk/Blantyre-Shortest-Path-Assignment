@@ -2,9 +2,9 @@
 Implementation of Dijkstra algorithm using Blantyre based weighted graph 
 
 Group Members
-1. [PRICILLA KUMANGA] - [MSE/23/SS/031]
-2. [ELSIE BANDA] - [MSE/23/SS/05] 
-3. [ERNEST KALEBE] - [MSE/23/SS/023]
+1. PRICILLA KUMANGA - MSE/23/SS/031
+2. ELSIE BANDA - MSE/23/SS/05
+3. ERNEST KALEBE - MSE/23/SS/023
 
 the link is 
 https://drive.google.com/drive/folders/16hQpgB_NiehjWptQmZX9xdlKGBYPRW2b
